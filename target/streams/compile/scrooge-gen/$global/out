@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0mGenerating scrooge thrift for /Users/parth/Projects/blackjack/src/main/thrift/blackjack.thrift ...[0m
+[0m[[0mdebug[0m] [0mjava -jar /Users/parth/Projects/blackjack/project/target/scrooge-3.0.1/scrooge-3.0.1.jar --finagle --ostrich --verbose   -d /Users/parth/Projects/blackjack/target/scala-2.9.1/src_managed/main/scala -s /Users/parth/Projects/blackjack/src/main/thrift/blackjack.thrift[0m
+[0m[[0minfo[0m] [0m+ Compiling /Users/parth/Projects/blackjack/src/main/thrift/blackjack.thrift[0m

@@ -1,0 +1,47 @@
+exit
+run -f config/development.scala
+gen-idea
+exit
+test-only
+compile
+test-only
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+test-only
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+test-only blackjack.BlackJack.spec
+test-only
+compile
+test-only blackjack.BlackJack.spec
+test-only blackjack.BlackJackSpec
+test-only blackjack.BlackJackGameSpec
+~test-only blackjack.BlackJackGameSpec
+run -f config/development.scala
+compile
+test-only
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala
+compile
+run -f config/development.scala

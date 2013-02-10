@@ -1,0 +1,6 @@
+*.log
+*.swp
+.idea/
+*.class
+target/
+

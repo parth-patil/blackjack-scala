@@ -1,0 +1,40 @@
+[0m[[0minfo[0m] [0mRunning com.twitter.blackjack.Main -f config/development.scala[0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/Projects/blackjack/target/scala-2.9.1/blackjack_2.9.1-1.0.0-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/Projects/blackjack/target/scala-2.9.1/blackjack_2.9.1-1.0.0-SNAPSHOT-sources.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/Projects/blackjack/target/scala-2.9.1/blackjack_2.9.1-1.0.0-SNAPSHOT-javadoc.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/org.scala-lang/jline/jars/jline-2.9.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/org.fusesource.jansi/jansi/jars/jansi-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/scrooge/jars/scrooge-3.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/scrooge-runtime_2.9.2/jars/scrooge-runtime_2.9.2-3.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/org.apache.thrift/libthrift/jars/libthrift-0.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.5.8.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.1.3.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.4.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.github.scopt/scopt_2.9.1/jars/scopt_2.9.1-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/finagle-core/jars/finagle-core-5.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/io.netty/netty/bundles/netty-3.5.3.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/util-collection/jars/util-collection-5.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.google.guava/guava/jars/guava-11.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.google.code.findbugs/jsr305/jars/jsr305-1.3.9.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/util-core/jars/util-core-5.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/util-hashing/jars/util-hashing-5.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/util-jvm/jars/util-jvm-5.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/util-logging/jars/util-logging-5.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/finagle-thrift/jars/finagle-thrift-5.3.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/silly/silly-thrift/jars/silly-thrift-0.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/finagle-ostrich4/jars/finagle-ostrich4-5.3.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/ostrich/jars/ostrich-8.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/scala-json/jars/scala-json-3.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.ivy2/cache/com.twitter/util-eval/jars/util-eval-5.3.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/parth/.sbt/boot/scala-2.9.1/lib/scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Thread-8 to exit[0m

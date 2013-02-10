@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mHandSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Hand [0m[0m
+[0m[[0minfo[0m] [0m[32m- should have value 12 with 2 aces[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have value 13 with 3 aces[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have value 21 with 1 ace and 1 king[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have value 21 with 1 ace and 2 kings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have value 19 with 8, 7 & 4[0m[0m

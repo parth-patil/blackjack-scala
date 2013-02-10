@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mDeckSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mA Normal Deck [0m[0m
+[0m[[0minfo[0m] [0m[32m- should have 52 cards[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have value 340[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have cards in seq when doShuffle is false[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have 50 cards after dealing 2 cards[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have 0 cards after dealing 52 cards[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have 51 cards after dealing 53 cards[0m[0m
+[0m[[0minfo[0m] [0m[32mA Custom Deck [0m[0m
+[0m[[0minfo[0m] [0m[32m- should have size 10 when initialized with 10 cards[0m[0m

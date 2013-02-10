@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mBlackJackGameSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mIn a BlackJackGame [0m[0m
+[0m[[0minfo[0m] [0m[32m- Dealer WINS when Dealer gets BlackJack in first 2 cards[0m[0m
+[0m[[0minfo[0m] [0m[32m- Player LOSES when hand value > 21 after 1st Hit[0m[0m
+[0m[[0minfo[0m] [0m[32m- Player WINS after Player Stands and Dealer Busts[0m[0m
+[0m[[0minfo[0m] [0m[32m- Player LOSES after Player Stands and Dealer Hits 21[0m[0m
+[0m[[0minfo[0m] [0m[32m- Player LOSES after Player Stands and Dealer's score more than Player[0m[0m
+[0m[[0minfo[0m] [0m[32m- Player LOSES after Player Hits and Busts[0m[0m
+[0m[[0minfo[0m] [0m[32m- Dealer WINS if both Player and Dealer get same score[0m[0m
+[0m[[0minfo[0m] [0m[32m- Game is DRAW if both Player and Dealer get BlackJack[0m[0m
+[0m[[0minfo[0m] [0m[32m- Dealer WINS if Dealer crosses Stand value(17) & has hand value greater than player[0m[0m
+[0m[[0minfo[0m] [0m[32m- Player WINS if Dealer crosses Stand value(17) but has hand value less than player[0m[0m

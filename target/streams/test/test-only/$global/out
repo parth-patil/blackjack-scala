@@ -1,0 +1,14 @@
+[0m[[0mdebug[0m] [0mRunning Test blackjack.DeckSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test blackjack.BlackJackSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test blackjack.HandSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test blackjack.CardSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test blackjack.BlackJackGameSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0mdebug[0m] [0mRunning Test com.twitter.blackjack.BlackjackServiceSpec : subclass(false, org.scalatest.Suite) with arguments [0m
+[0m[[0minfo[0m] [0mPassed: : Total 27, Failed 0, Errors 0, Passed 27, Skipped 0[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	blackjack.HandSpec[0m
+[0m[[0mdebug[0m] [0m	blackjack.DeckSpec[0m
+[0m[[0mdebug[0m] [0m	blackjack.BlackJackSpec[0m
+[0m[[0mdebug[0m] [0m	blackjack.CardSpec[0m
+[0m[[0mdebug[0m] [0m	com.twitter.blackjack.BlackjackServiceSpec[0m
+[0m[[0mdebug[0m] [0m	blackjack.BlackJackGameSpec[0m
