@@ -1,12 +1,24 @@
 # Project Blackjack
 
-Welcome to your blackjack project!  To make sure things are working
-properly, you may want to:
+This project contains a Blackjack game implemented as a client and server application.
+The server is written using Finagle and the server exposes a thrift interface.
+The server supports multiple players playing at the same time.
 
-    $ sbt update test
+# Playing Blackjack
+First you will need to clone this project. Next you need to run the server and the
+client as follows
 
-There is a tutorial for what to do next, which you can find in the
-scala-bootstrapper README.rdoc file.
+## Running the Blackjack Finagle Server
+```
+cd blackjack
+./sbt
+> compile
+> run -f config/development.scala
+```
 
-# Playing
+## Running Blackjack client
+```
+cd blackjack
+./console 127.0.0.1 9999
+```
 
